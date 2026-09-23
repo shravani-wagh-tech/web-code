@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>heading style</title>
+  <style>
+    h1{
+      color: red;
+    }
+    h2{
+      color:blue;
+    }
+    h3{
+      color:green;
+    }
+    h4{
+      color:orange;
+    }
+    h5{
+      color:purple;
+    }
+    h6{
+      color:brown;
+    }
+    }
+  </style>
+  </head>
+  <body>
+  <h1>web desinging</h1>
+  <h2>web dsesining</h2>
+  <h3>web dsesining</h3>
+  <h4>web dsesining</h4>
+  <h5>web desinging</h5>
+  <h6>web desining</h6>
+  </body>
+  
